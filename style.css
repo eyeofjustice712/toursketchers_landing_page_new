@@ -414,7 +414,7 @@ body a {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: url("../img/main-pages/boats-in-water.jpg") center/cover no-repeat;
+  background: url("assets/images/boats-in-water.jpg") center/cover no-repeat;
   color: white;
 }
 
