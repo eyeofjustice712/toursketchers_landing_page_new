@@ -53,7 +53,7 @@ body {
     align-items: center;
     justify-content: center;
     background:
-        url("../img/main-pages/boats-in-water.jpg")
+        url("assets/images/boats-in-water.jpg")
         /* url("assets/images/mountains-and-sunset.jpg") */
         center / cover no-repeat;
     color: white;
